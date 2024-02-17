@@ -6,16 +6,19 @@
     return array;
 }
 
-
-void PrintArray(string[] arr)
+void CreateMiniArray(string[] array)
 {
-    for (int i = 0; i < arr.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        if (i < arr.Length - 1) Console.Write($"->[{arr[i]}, ]");
+        string str = array[i];
+        char [] ar = str.ToCharArray();
+        if (ar.Length < 4) Console.Write($"{array[i]}, ");
     }
+    
 }
 
 Console.WriteLine("введите значения через пробел");
 string values = Console.ReadLine();
 string[] array = CreateArrayFromConsole(values);
-PrintArray(array);
+Console.Write("-> ");
+CreateMiniArray(array);
