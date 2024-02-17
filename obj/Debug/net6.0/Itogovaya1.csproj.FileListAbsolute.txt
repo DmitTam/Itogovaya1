@@ -1,0 +1,15 @@
+/Users/tamara/Documents/Study/Itogovaya1/bin/Debug/net6.0/Itogovaya1
+/Users/tamara/Documents/Study/Itogovaya1/bin/Debug/net6.0/Itogovaya1.deps.json
+/Users/tamara/Documents/Study/Itogovaya1/bin/Debug/net6.0/Itogovaya1.runtimeconfig.json
+/Users/tamara/Documents/Study/Itogovaya1/bin/Debug/net6.0/Itogovaya1.dll
+/Users/tamara/Documents/Study/Itogovaya1/bin/Debug/net6.0/Itogovaya1.pdb
+/Users/tamara/Documents/Study/Itogovaya1/obj/Debug/net6.0/Itogovaya1.csproj.AssemblyReference.cache
+/Users/tamara/Documents/Study/Itogovaya1/obj/Debug/net6.0/Itogovaya1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamara/Documents/Study/Itogovaya1/obj/Debug/net6.0/Itogovaya1.AssemblyInfoInputs.cache
+/Users/tamara/Documents/Study/Itogovaya1/obj/Debug/net6.0/Itogovaya1.AssemblyInfo.cs
+/Users/tamara/Documents/Study/Itogovaya1/obj/Debug/net6.0/Itogovaya1.csproj.CoreCompileInputs.cache
+/Users/tamara/Documents/Study/Itogovaya1/obj/Debug/net6.0/Itogovaya1.dll
+/Users/tamara/Documents/Study/Itogovaya1/obj/Debug/net6.0/refint/Itogovaya1.dll
+/Users/tamara/Documents/Study/Itogovaya1/obj/Debug/net6.0/Itogovaya1.pdb
+/Users/tamara/Documents/Study/Itogovaya1/obj/Debug/net6.0/Itogovaya1.genruntimeconfig.cache
+/Users/tamara/Documents/Study/Itogovaya1/obj/Debug/net6.0/ref/Itogovaya1.dll
